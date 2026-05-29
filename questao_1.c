@@ -17,4 +17,4 @@ int main (){
     printf ("Os números via ponteiro são %d e %d", n1, n2);
 
 return 0;
-}
+} 
